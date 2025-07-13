@@ -1,5 +1,5 @@
 # CV
-
+![alt text](img/image.jpg "Profile picture")
 ## Name
 **Maksytbekov Aidar**
 
